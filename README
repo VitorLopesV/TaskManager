@@ -1,0 +1,16 @@
+Este projeto implementa um gerenciador de tarefas simples, executado via console. O sistema recebe três informações
+para cada tarefa: descrição, nível de prioridade e tempo estimado de execução.
+
+O objetivo é permitir que o usuário:
+
+Organize as tarefas em diferentes ordens (a definir pelo próprio usuário).
+Marque tarefas como concluídas.
+Edite ou remova tarefas existentes.
+Consulte a lista completa a qualquer momento.
+
+Exemplo de saída:
+
+Marcar corte de cabelo — Prioridade alta 🔴 — 2 horas 🕛
+Fazer a barba — Prioridade média 🟡 — 20 minutos 🕛
+Varrer a área — Prioridade baixa 🟢 — 30 minutos 🕛
+Comprar mistura para o jantar — Prioridade alta 🔴 — 40 minutos 🕛 — Concluído ✅
